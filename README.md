@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">An enthusiastic web developer with a passion for vulnerability assessment and penetration testing.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/AkshaySavanoorCC/AkshaySavanoorCC/assets/127177369/d7372052-e048-483f-ac3c-96a0ec456dba)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysavanoorcc&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysavanoorcc" /> </p>
 
 - 🔭 I’m currently working on [E-commerce website using blockchain technology](https://github.com/akshaySavanoor/Bettampady-technologies-ecom)
