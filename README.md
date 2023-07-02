@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">An enthusiastic web developer with a passion for vulnerability assessment and penetration testing.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/AkshaySavanoorCC/AkshaySavanoorCC/assets/127177369/d7372052-e048-483f-ac3c-96a0ec456dba
-">
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/DecimalSaneAffenpinscher-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysavanoorcc&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysavanoorcc" /> </p>
 
